@@ -33,13 +33,13 @@ This **AI-Powered Testing Instruction Generator** is a web application built usi
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your_username/ai-testing-instruction-generator.git
+   git clone https://github.com/khanyousufminhaj/Testing_instruction_generator.git
    ```
 
 2. Navigate into the project directory:
 
    ```bash
-   cd ai-testing-instruction-generator
+   cd Testing_instruction_generator
    ```
 
 3. Install the required dependencies:
@@ -52,8 +52,8 @@ This **AI-Powered Testing Instruction Generator** is a web application built usi
 
    - Add your API key to the `secrets.toml` file in the `.streamlit/` folder:
    
-     ```toml
-     [secrets]
+     ``` secrets.toml
+    
      GEMINI_API_KEY = "your_gemini_api_key"
      ```
 
